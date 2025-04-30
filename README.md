@@ -1,4 +1,14 @@
-## Hi there 👋
+## Bio
+
+World.execute(me);
+
+A CN student, though
+
+DOB 06-0x400
+
+Python > C/C++, C#
+
+Arknights enthusiast
 
 <!--
 **ArsvineZhu/ArsvineZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
