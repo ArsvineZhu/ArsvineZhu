@@ -69,7 +69,7 @@ Python, AI workflows, personal websites, Vercel / Cloudflare deployment, Godot, 
 ## Contact
 
 - Website: [arsvine.com](https://arsvine.com)
-- Blog: [arsvine.com/blog](https://arsvine.com/blog)
+- Blog: [arsvine.com/content#blog](https://arsvine.com/content#blog)
 - Contact: [arsvine.com/contact](https://arsvine.com/contact)
 - GitHub: [@ArsvineZhu](https://github.com/ArsvineZhu)
 
